@@ -3,7 +3,7 @@ To do this, I create "English Vocabulary Listening" videos, upload them to YouTu
 I store English words and their Japanese translations in an Excel file,<br>
 and use Python to generate videos with spoken audio.<br>
 I then overlay background music onto the MPEG files created with Python using Clipchamp.<br>
-
+<br>
 
 どうしたら英語を簡単に習得できるか、を研究しています。<br>
 そのために、「英単語 聞き流し」動画を作成して、YouTube にアップして、聞いています。<br>
