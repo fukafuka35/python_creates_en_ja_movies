@@ -1,4 +1,4 @@
-I am researching how to easily acquire English.
+I am researching how to easily acquire English.<br>
 To do this, I create "English Vocabulary Listening" videos, upload them to YouTube, and listen to them.
 I store English words and their Japanese translations in an Excel file,
 and use Python to generate videos with spoken audio.
